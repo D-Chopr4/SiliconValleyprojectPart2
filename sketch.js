@@ -6,10 +6,10 @@ var Road_Img, ground;
 
 function preload(){
 
-  WaterFighter_Img = loadImage("../images/WaterFighter.jpg");
-  SpiderMan_Img = loadImage("../images/SpiderMan.png");
-  SirenTruck_Img = loadImage("../images/SirenTruck.gif");
-  Road_Img = loadImage("../images/RoadImg.jpg");
+  WaterFighter_Img = loadImage("Images/WaterFighter.jpg");
+  SpiderMan_Img = loadImage("Images/SpiderMan.png");
+  SirenTruck_Img = loadImage("Images/SirenTruck.gif");
+  Road_Img = loadImage("Images/RoadImg.jpg");
 }
   
 
